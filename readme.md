@@ -10,7 +10,7 @@ Each snippet begins with "c" for comment, namespacing the snippets a bit. If you
 
 ##Snippets
 
-These are *section name* - *snippet trigger*
+These are *section name* - *`snippet trigger`*
 
 ###CSS
 
