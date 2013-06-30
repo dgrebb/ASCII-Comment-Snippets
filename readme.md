@@ -14,14 +14,14 @@ These are *section name* - *snippet trigger*
 
 ###CSS
 
-* Typography - ctypography, ctypo, cfont, or cfonts
-* Grid - cgrid
-* Layout - clayout
-* Base - cbase
-* Modules - cmodules
-* State - cstate
-* Theme - ctheme
-* Colors - ccolors or ccolor
+* Typography - `ctypography, ctypo, cfont, or cfonts`
+* Grid - `cgrid`
+* Layout - `clayout`
+* Base - `cbase`
+* Modules - `cmodules`
+* State - `cstate`
+* Theme - `ctheme`
+* Colors - `ccolors or ccolor`
 
 <!--notes
 Ascii text theme possibilities
@@ -31,4 +31,6 @@ ogre
 amc aaa01
 colossal
 georgia
+
+
 -->
