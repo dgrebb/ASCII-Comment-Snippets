@@ -14,5 +14,5 @@ Y88b  d88P 888     888 Y88b 888
 
 ]]></content>
 	<tabTrigger>cgrid</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.css,source.less,source.sass</scope>
 </snippet>

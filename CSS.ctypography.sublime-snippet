@@ -17,5 +17,5 @@
 
 ]]></content>
 	<tabTrigger>ctypography</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.css,source.less,source.sass,source.less,source.sass</scope>
 </snippet>
