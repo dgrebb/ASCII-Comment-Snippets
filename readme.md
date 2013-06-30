@@ -10,7 +10,7 @@ Each snippet begins with "c" for comment, namespacing the snippets a bit. If you
 
 ##Snippets
 
-These are *section name* - *`snippet trigger`*
+These are *comment title* - *`snippet trigger`*
 
 ###CSS
 
@@ -22,15 +22,3 @@ These are *section name* - *`snippet trigger`*
 * State - `cstate`
 * Theme - `ctheme`
 * Colors - `ccolors or ccolor`
-
-<!--notes
-Ascii text theme possibilities
-
-Modular
-ogre
-amc aaa01
-colossal
-georgia
-
-
--->

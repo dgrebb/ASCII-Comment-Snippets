@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+/* 
+ .d8888b.          d8b      888 
+d88P  Y88b         Y8P      888 
+888    888                  888 
+888        888d888 888  .d88888 
+888  88888 888P"   888 d88" 888 
+888    888 888     888 888  888 
+Y88b  d88P 888     888 Y88b 888 
+ "Y8888P88 888     888  "Y88888                                     
+*/
+
+
+]]></content>
+	<tabTrigger>cgrid</tabTrigger>
+	<scope>source.css</scope>
+</snippet>
