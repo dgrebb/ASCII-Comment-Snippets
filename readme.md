@@ -22,6 +22,8 @@ I'll be adding more all the time. If you come up with some of your own, pull req
 
 ##Usage
 
+Turning off word wrap is a good idea.
+
 Each snippet begins with "c" for comment, namespacing the snippets a bit. If you're about to write a section of CSS for typography, you can do ctypography, ctypo, cfont or cfonts, then hit tab. As fantastic Ascii comment will be dropped into your code.
 
 ##Snippets
@@ -31,10 +33,18 @@ These are *comment title* - *`snippet trigger`*
 ###CSS
 
 * Typography - `ctypography, ctypo, cfont, or cfonts`
+* Breadcrumbs - `cbreadcrumbs`
+* Footer - `cfooter`
+* General - `cgeneral`
+* Global - `cglobal`
 * Grid - `cgrid`
+* Header -`cheader`
 * Layout - `clayout`
+* Lists - `clists`
 * Base - `cbase`
-* Modules - `cmodules`
+* Media Queries - `cmediaqueries`
+* Modules - `cmodules, cmods`
 * State - `cstate`
+* Touch Styles - `ctouch`
 * Theme - `ctheme`
 * Colors - `ccolors or ccolor`

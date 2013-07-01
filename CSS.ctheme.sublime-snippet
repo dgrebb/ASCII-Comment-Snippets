@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+/* 
+88888888888 888                                      
+    888     888                                      
+    888     888                                      
+    888     88888b.   .d88b.  88888b.d88b.   .d88b.  
+    888     888 "88b d8P  Y8b 888 "888 "88b d8P  Y8b 
+    888     888  888 88888888 888  888  888 88888888 
+    888     888  888 Y8b.     888  888  888 Y8b.     
+    888     888  888  "Y8888  888  888  888  "Y8888                              
+*/
+
+
+]]></content>
+	<tabTrigger>ctheme</tabTrigger>
+	<scope>source.css,source.less,source.sass</scope>
+</snippet>
